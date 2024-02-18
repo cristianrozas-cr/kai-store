@@ -7,7 +7,5 @@ Kai Store. Tienda de mascotas.
 
 To deploy this project run
 
-```bash
-  npm run deploy
-```
+https://cristianrozas-cr.github.io/kai-store/
 
